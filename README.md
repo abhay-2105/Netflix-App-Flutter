@@ -1,4 +1,4 @@
-# Netflix UI Clone using Flutter
+# Netflix UI created with Flutter
 
 ## *Mobile verion screenshots
 
