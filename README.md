@@ -1,4 +1,4 @@
-# Netflic UI Clone using Flutter
+# Netflix UI Clone using Flutter
 
 ## *Mobile verion screenshots
 
